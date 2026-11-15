@@ -314,23 +314,22 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 
 <!-- ================= GITHUB DASHBOARD ================== -->
 
+
+
 ## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Litwebo&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=8B5CF6" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Litwebo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litwebo&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Litwebo&theme=tokyonight&hide_border=true&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litwebo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Litwebo&theme=tokyonight" alt="GitHub Profile Summary"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Litwebo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
 
 ---
 
