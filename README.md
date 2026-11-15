@@ -1,69 +1,47 @@
 
 <!-- ====================================================== -->
-<!--              LITWEBO | GITHUB PROFILE                  -->
-<!--          FUTURISTIC DIGITAL DEVELOPER BRAND             -->
+<!--                    LITWEBO README                      -->
 <!-- ====================================================== -->
-
-
-<!-- ==================== HERO SECTION ==================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:050816,25:101B40,65:25105A,100:00D9FF&text=LITWEBO&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=DESIGN%20%E2%80%A2%20DEVELOP%20%E2%80%A2%20INNOVATE&descSize=17&descColor=00D9FF&descAlignY=58&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00D9FF&height=180&section=header&text=LITWEBO&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=LIGHT%20UP%20THE%20WEB&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<br/>
+<h3>⚡ LIGHT UP THE WEB ⚡</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Welcome+to+LITWEBO+%E2%9C%A8;Ideas+Into+Digital+Experiences;Designing+Beyond+Limits;Building+The+Future+With+Code;Creativity+Meets+Technology." alt="LITWEBO typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ideas+Into+Digital+Experiences;Creativity+Unlimited;Building+Modern+Websites+%26+Apps;Turning+Visions+Into+Reality" />
 
-<br/><br/>
+<h3>OWNED BY: VINAYAKA KALLAHOLAD</h3>
 
-### OWNED BY: VINAYAKA KALLAHOLAD
-
-<img src="https://img.shields.io/badge/CREATIVITY-UNLIMITED-00D9FF?style=for-the-badge&labelColor=090B16"/>
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-7B2CFF?style=for-the-badge&labelColor=090B16"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Litwebo&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://img.shields.io/badge/⚡_CREATIVITY_UNLIMITED-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_ALWAYS_BUILDING-9B5CFF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT LITWEBO ==================== -->
-
-<h2 align="center">◈ BEYOND THE CODE</h2>
-
-<div align="center">
-<img width="70%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7B2CFF,100:00D9FF"/>
-</div>
+<h2 align="center">◇ BEYOND THE CODE ◇</h2>
 
 <table>
 <tr>
 <td width="60%" valign="middle">
 
-### Welcome to LITWEBO 👋
+### 👋 Welcome to LITWEBO
 
-**LITWEBO** is a creative digital identity built around transforming ideas, visions and imagination into meaningful digital experiences.
+**LITWEBO** is a creative digital brand built around transforming ideas, visions and imagination into meaningful digital experiences.
 
-From designing beautiful interfaces to developing modern websites and applications, the goal is to combine creativity with technology and bring concepts to life.
+From designing beautiful interfaces to developing modern websites and applications, our goal is to combine creativity with technology and bring concepts to life.
 
-**What drives LITWEBO?**
-
-- 🌐 Modern Web Development
-- 🎨 Creative UI/UX Design
-- 📱 Application Development
-- 💡 Innovative Digital Solutions
-- 🚀 Turning Ideas Into Reality
-- ✨ Continuous Learning & Experimentation
-
-**Owned and developed by Vinayaka Kallaholad.**
+**Our focus:**
+- 🌐 Web Development
+- 🎨 UI/UX Design
+- 📱 App Development
+- 💡 Digital Solutions
 
 </td>
+<td width="40%" align="center" valign="middle">
 
-<td width="40%" align="center">
-
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600" width="100%" alt="Creative Development Workspace"/>
 
 </td>
 </tr>
@@ -71,35 +49,7 @@ From designing beautiful interfaces to developing modern websites and applicatio
 
 ---
 
-<!-- ==================== SOCIAL LINKS ==================== -->
-
-<h2 align="center">◈ CONNECT WITH LITWEBO</h2>
-
-<div align="center">
-
-<a href="https://github.com/Litwebo">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vinayaka-kallaholad-202522449/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-</a>
-
-<a href="https://www.instagram.com/vinayak113/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<br/><br/>
-
-<b>Follow the journey. Explore the creativity. Build the future.</b>
-
-</div>
-
----
-
-<!-- ==================== TECH STACK ==================== -->
-
-<h2 align="center">◈ THE TECH UNIVERSE</h2>
+<h2 align="center">◇ THE TECH UNIVERSE ◇</h2>
 
 <p align="center">
 <i>Every tool is an opportunity to create something extraordinary.</i>
@@ -107,55 +57,90 @@ From designing beautiful interfaces to developing modern websites and applicatio
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="66%" valign="top">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
 
 ### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=c,python,java,js,ts&theme=dark&perline=5" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=c,python,java,js,ts&theme=dark" />
 
 </td>
-
-<td align="center" width="50%">
+<td width="50%" align="center" valign="middle">
 
 ### 🌐 Web Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,express,tailwind&theme=dark&perline=4" alt="Web technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,express,tailwind&theme=dark" />
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="middle">
 
 ### 🎨 Design & Creativity
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&theme=dark&perline=4" alt="Design tools"/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
 
 </td>
-
-<td align="center" width="50%">
+<td align="center" valign="middle">
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark&perline=4" alt="Database technologies"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="middle">
 
 ### ⚙️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=4" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 
 </td>
-
-<td align="center" width="50%">
+<td align="center" valign="middle">
 
 ### 📱 App Development
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio&theme=dark&perline=4" alt="App development tools"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="34%" align="center" valign="middle">
+
+<h2>LITWEBO</h2>
+
+<h4>LIGHT UP THE WEB</h4>
+
+---
+
+### 💻 CREATIVE STUDIO
+
+<i>Turning imagination into digital experiences.</i>
+
+### WHAT WE DO
+
+<img src="https://img.shields.io/badge/WEB-DEVELOPMENT-00D9FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/APP-DEVELOPMENT-9B5CFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UI%2FUX-DESIGN-FF7043?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DIGITAL-SOLUTIONS-00D9FF?style=for-the-badge"/>
+
+---
+
+### OUR PHILOSOPHY
+
+<i>Ideas are limitless. Creativity makes them possible.</i>
 
 </td>
 </tr>
@@ -163,179 +148,125 @@ From designing beautiful interfaces to developing modern websites and applicatio
 
 ---
 
-<!-- ==================== WHAT WE CREATE ==================== -->
-
-<h2 align="center">◈ WHAT WE CREATE</h2>
+<h2 align="center">◇ WHAT WE CREATE ◇</h2>
 
 <table>
 <tr>
-
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
 ### 🌐 WEB EXPERIENCES
 
 Building modern, responsive and interactive websites that bring ideas to life.
 
 </td>
-
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
 ### 🎨 UI/UX DESIGN
 
 Creating beautiful, intuitive and user-friendly digital interfaces.
 
 </td>
-
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
 ### 📱 APP DEVELOPMENT
 
 Exploring innovative applications and useful digital solutions.
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-<!-- ==================== PROJECT SHOWCASE ==================== -->
-
-<h2 align="center">◈ SELECTED DIGITAL EXPERIENCES</h2>
-
-<div align="center">
+<h2 align="center">◇ SELECTED DIGITAL EXPERIENCES ◇</h2>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="middle">
 
-### ✦ LIFETRACKO
+### ⚡ LIFETRACKO
 
 A digital platform focused on bringing different aspects of everyday life into one place.
 
 <a href="https://lifetracko.ai.studio">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 </td>
+<td width="50%" valign="middle">
 
-<td align="center" width="50%">
-
-### ✦ MORE COMING SOON
+### 🚀 MORE COMING SOON
 
 New ideas, creative experiments and digital experiences are always in development.
 
-<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-7B2CFF?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/IN_DEVELOPMENT-9B5CFF?style=for-the-badge"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<!-- ==================== DEVELOPER DASHBOARD ==================== -->
-
-<h2 align="center">◈ THE DEVELOPER DASHBOARD</h2>
-
-<p align="center">
-<i>Every commit tells a story. Every project creates progress.</i>
-</p>
+<h2 align="center">◇ MY DEVELOPMENT JOURNEY ◇</h2>
 
 <div align="center">
 
-<a href="https://github.com/Litwebo?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Litwebo?tab=stars">
-<img src="https://img.shields.io/badge/EXPLORE-STARRED%20PROJECTS-7B2CFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Litwebo">
-<img src="https://img.shields.io/badge/VISIT-GITHUB%20PROFILE-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/CREATING-NEW_IDEAS-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARNING-EVERY_DAY-9B5CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILDING-DIGITAL_FUTURE-FF7043?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PROFILE-LITWEBO-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-7B2CFF?style=for-the-badge&labelColor=0D1117"/>
-
-<br/><br/>
-
-<a href="https://github.com/Litwebo">
-<b>VIEW ALL PROJECTS AND CONTRIBUTIONS →</b>
-</a>
-
-</div>
-
----
-
-<!-- ==================== CODING JOURNEY ==================== -->
-
-<h2 align="center">◈ THE CODING JOURNEY</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Litwebo&bg_color=0D1117&color=00D9FF&line=7B2CFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub coding activity"/>
-
-</div>
-
----
-
-<!-- ==================== CONTRIBUTION MATRIX ==================== -->
-
-<h2 align="center">◈ CONTRIBUTION MATRIX</h2>
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Litwebo/Litwebo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-<br/><br/>
-
-<a href="https://github.com/Litwebo">
-<b>EXPLORE ALL CONTRIBUTIONS →</b>
-</a>
-
-</div>
-
----
-
-<!-- ==================== BRAND PHILOSOPHY ==================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:080B18,40:171044,100:003B57&text=LITWEBO&fontSize=55&fontColor=00E5FF&animation=twinkling&desc=IDEAS%20INTO%20DIGITAL%20EXPERIENCES&descSize=15&descColor=FFFFFF&descAlignY=72"/>
-
-<br/><br/>
-
-### THINK. DESIGN. BUILD. INSPIRE.
-
-**Where imagination meets technology.**
+<i>Learning, experimenting and building one project at a time.</i>
 
 <br/>
+
+<a href="https://github.com/Litwebo">
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center">◇ LET'S CONNECT ◇</h2>
+
+<div align="center">
 
 <i>"Every great digital experience begins with an idea."</i>
 
 <br/><br/>
 
-### OWNED BY: VINAYAKA KALLAHOLAD
+<h2>OWNED BY: VINAYAKA KALLAHOLAD</h2>
 
-<br/>
-
-<a href="https://www.instagram.com/vinayak113/">
-<img src="https://img.shields.io/badge/FOLLOW%20ON%20INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vinayaka-kallaholad-202522449/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.instagram.com/vinayak_113/">
+<img src="https://img.shields.io/badge/@VINAYAK__113-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Owner Instagram"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D9FF,50:25105A,100:050816"/>
+<a href="https://www.linkedin.com/in/vinayaka-kallaholad-202522449/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/><br/>
+
+<h2>LITWEBO — BRAND INSTAGRAM</h2>
+
+<a href="https://www.instagram.com/litweb0/">
+<img src="https://img.shields.io/badge/FOLLOW_LITWEBO-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="LITWEBO Instagram"/>
+</a>
+
+<br/><br/>
+
+<h3>⚡ LITWEBO — LIGHT UP THE WEB ⚡</h3>
+
+<i>Ideas Into Digital Experiences.</i>
 
 </div>
 
-<!-- ================= END OF LITWEBO README ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:111827,100:9B5CFF&height=120&section=footer" width="100%"/>
+
+<!-- ====================================================== -->
+<!--                    END OF README                       -->
+<!-- ====================================================== -->
