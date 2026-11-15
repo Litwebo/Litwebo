@@ -9,7 +9,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:14213D,100:00D9FF&text=LITWEBO&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=LIGHT%20UP%20THE%20WEB&descSize=22&descAlignY=62&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hey+there%2C+Welcome+to+LITWEBO+%F0%9F%91%8B;Ideas+Into+Digital+Experiences;Web+Development+%7C+UI%2FUX+%7C+App+Development;Design.+Develop.+Innovate."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Welcome+to+LITWEBO+%F0%9F%91%8B;Ideas+Into+Digital+Experiences;Web+Development+%7C+UI%2FUX+%7C+App+Development;Design.+Develop.+Innovate."/>
 
 <br/><br/>
 
@@ -53,9 +53,9 @@
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="62%" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1300&color=00D9FF&width=650&lines=UI%2FUX+Enthusiast;Aspiring+Web+Developer;App+Development+Explorer;Founder+of+LITWEBO"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1300&color=00D9FF&width=600&lines=UI%2FUX+Enthusiast;Aspiring+Web+Developer;App+Development+Explorer;Founder+of+LITWEBO"/>
 
 I'm a Computer Science Engineering student at **St Joseph Engineering College**, passionate about building creative and useful digital experiences.
 
@@ -69,13 +69,11 @@ Through **LITWEBO**, I aim to transform ideas, visions and imagination into mode
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img
-  width="100%"
-  src="./assets/litwebo-logo.jpeg"
-  alt="LITWEBO - Light Up The Web"
-/>
+<img width="100%" src="./assets/creative-workspace.png" alt="Creative Developer Workspace"/>
+
+<sub>CREATIVITY MEETS TECHNOLOGY</sub>
 
 </td>
 </tr>
@@ -117,6 +115,7 @@ Through **LITWEBO**, I aim to transform ideas, visions and imagination into mode
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🌐
@@ -156,6 +155,7 @@ Creative applications and digital products.
 Transforming ideas into reality.
 
 </td>
+
 </tr>
 </table>
 
@@ -176,9 +176,9 @@ Transforming ideas into reality.
 <table>
 <tr>
 
-<!-- LEFT SIDE: TECHNOLOGY STACK -->
+<!-- LEFT: TECHNOLOGY STACK -->
 
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 ### 💻 Programming Languages
 
@@ -210,49 +210,43 @@ Transforming ideas into reality.
 
 </td>
 
-<!-- RIGHT SIDE: LITWEBO BRAND SHOWCASE -->
+<!-- RIGHT: LITWEBO CREATIVE STUDIO -->
 
-<td width="38%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img width="180" src="./assets/litwebo-logo.jpeg" alt="LITWEBO Brand Logo"/>
+<img width="100%" src="./assets/creative-workspace.png" alt="LITWEBO Creative Workspace"/>
 
-<br/><br/>
+### ⚡ THE LITWEBO STUDIO
 
-# LITWEBO
+**LIGHT UP THE WEB**
 
-### LIGHT UP THE WEB
-
-<img src="https://img.shields.io/badge/CREATIVE_DIGITAL_STUDIO-00D9FF?style=for-the-badge"/>
-
-<br/><br/>
-
-## ◈ OUR SERVICES ◈
-
-<img src="https://img.shields.io/badge/01_WEB_DEVELOPMENT-00D9FF?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/02_APP_DEVELOPMENT-8B5CF6?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/03_UI_UX_DESIGN-FF7043?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/04_DIGITAL_SOLUTIONS-00D9FF?style=for-the-badge"/>
-
-<br/><br/>
-
----
-
-## 💡 OUR VISION
-
-*Transforming imagination into meaningful digital experiences.*
+*Where creativity meets technology.*
 
 <br/>
 
-## ⚡ OUR CREATIVE PROCESS
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-00D9FF?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/APP_DEVELOPMENT-8B5CF6?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/UI_UX_DESIGN-FF7043?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DIGITAL_SOLUTIONS-00D9FF?style=for-the-badge"/>
+
+<br/><br/>
+
+### 💡 OUR PHILOSOPHY
+
+*Imagine beyond limits. Build beyond expectations.*
+
+<br/>
+
+### ⚡ OUR CREATIVE PROCESS
 
 **IDEATE**
 
@@ -274,12 +268,6 @@ Transforming ideas into reality.
 <img src="https://img.shields.io/badge/FOLLOW_@LITWEB0-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/Litwebo">
-<img src="https://img.shields.io/badge/EXPLORE_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </td>
 </tr>
 </table>
@@ -292,6 +280,7 @@ Transforming ideas into reality.
 
 <table>
 <tr>
+
 <td width="65%" valign="middle">
 
 ### ⚡ LifeTracko
@@ -317,6 +306,7 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 <img src="https://img.shields.io/badge/CREATING-THE_NEXT_IDEA-8B5CF6?style=flat-square"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -344,14 +334,14 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 
 ---
 
-<!-- ================= CURRENT FOCUS ===================== -->
+<!-- ================= CURRENTLY EXPLORING ================ -->
 
 ## 🎯 Currently Exploring
 
 <table>
 <tr>
 
-<td width="32%" valign="top">
+<td width="33%" valign="top">
 
 ### 🧠 Learning
 
@@ -363,7 +353,7 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 
 </td>
 
-<td width="32%" valign="top">
+<td width="33%" valign="top">
 
 ### 🔨 Building
 
@@ -375,41 +365,18 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 
 </td>
 
-<td width="36%" align="center" valign="middle">
+<td width="34%" valign="top">
 
-<img width="120" src="./assets/litwebo-logo.jpeg" alt="LITWEBO Logo"/>
+### 🚀 Exploring Next
 
-### ⚡ LITWEBO INNOVATION HUB
-
-<img src="https://img.shields.io/badge/THINK-CREATIVELY-00D9FF?style=flat-square"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/DESIGN-BOLDLY-8B5CF6?style=flat-square"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/BUILD-SMARTER-FF7043?style=flat-square"/>
-
-<br/><br/>
-
-### 💡 OUR MISSION
-
-*Turn imagination into meaningful digital experiences.*
-
-<br/>
-
-### 🌌 FUTURE VISION
-
-Explore new technologies. Create innovative solutions. Make ideas real.
-
-<br/><br/>
-
-<a href="https://www.instagram.com/litweb0/">
-<img src="https://img.shields.io/badge/EXPLORE_LITWEBO-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+- 3D web experiences
+- Interactive animations
+- Modern design systems
+- AI-powered applications
+- Advanced frontend development
 
 </td>
+
 </tr>
 </table>
 
@@ -423,9 +390,13 @@ Explore new technologies. Create innovative solutions. Make ideas real.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050816,50:14213D,100:312E81&text=Ideas%20Are%20Limitless&fontColor=00D9FF&fontSize=35&animation=twinkling&desc=Creativity%20Makes%20Them%20Possible&descColor=FFFFFF&descSize=17&descAlignY=75"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Imagine+It.;Design+It.;Develop+It.;Bring+It+To+Life."/>
+
+<br/><br/>
+
+*Every great digital experience begins with an idea.*
 
 </div>
 
@@ -436,10 +407,6 @@ Explore new technologies. Create innovative solutions. Make ideas real.
 <div align="center">
 
 ## ⚡ CONNECT WITH LITWEBO
-
-*Every great digital experience begins with an idea.*
-
-<br/><br/>
 
 ### OWNED BY: VINAYAKA KALLAHOLAD
 
@@ -467,7 +434,7 @@ Explore new technologies. Create innovative solutions. Make ideas real.
 
 **IDEAS INTO DIGITAL EXPERIENCES**
 
-<br/>
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D9FF,50:14213D,100:050816&section=footer&animation=fadeIn"/>
 
