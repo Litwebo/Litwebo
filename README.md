@@ -1,13 +1,11 @@
 
-<!-- ====================================================== -->
-<!--                  LITWEBO PROFILE README                 -->
-<!-- ====================================================== -->
-
-<!-- ======================= HERO ========================= -->
+<!-- ===================================================== -->
+<!--                  LITWEBO PROFILE                      -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:14213D,100:00D9FF&text=LITWEBO&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=LIGHT%20UP%20THE%20WEB&descSize=22&descAlignY=62&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090014,40:25104A,75:123C68,100:00D9FF&text=LITWEBO&fontSize=82&fontColor=FFFFFF&fontAlignY=38&desc=LIGHT%20UP%20THE%20WEB&descSize=22&descAlignY=62&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Welcome+to+LITWEBO+%F0%9F%91%8B;Ideas+Into+Digital+Experiences;Web+Development+%7C+UI%2FUX+%7C+App+Development;Design.+Develop.+Innovate."/>
 
@@ -23,13 +21,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Litwebo&label=PROFILE%20VISITORS&color=00D9FF&style=for-the-badge" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?username=Litwebo&label=PROFILE%20VISITORS&color=00D9FF&style=for-the-badge"/>
 
 </div>
 
 ---
-
-<!-- =================== NAVIGATION ======================= -->
 
 <div align="center">
 
@@ -37,23 +33,23 @@
 
 [ABOUT](#-about-me) ◆
 [SOCIALS](#-my-digital-presence) ◆
-[SERVICES](#-what-i-work-with) ◆
+[SERVICES](#-what-we-do) ◆
 [TECH STACK](#-tech-arsenal) ◆
 [PROJECTS](#-featured-projects) ◆
-[STATS](#-github-dashboard) ◆
+[EXPLORING](#-currently-exploring) ◆
 [CONTACT](#-connect-with-litwebo)
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME ======================== -->
+<!-- ===================== ABOUT ======================== -->
 
 ## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="62%" valign="middle">
+<td width="68%" valign="middle">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1300&color=00D9FF&width=600&lines=UI%2FUX+Enthusiast;Aspiring+Web+Developer;App+Development+Explorer;Founder+of+LITWEBO"/>
 
@@ -69,11 +65,11 @@ Through **LITWEBO**, I aim to transform ideas, visions and imagination into mode
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
-<img width="100%" src="./assets/creative-workspace.png" alt="Creative Developer Workspace"/>
+<img src="./litwebo-logo.jpeg" width="100%" alt="Official LITWEBO Logo"/>
 
-<sub>CREATIVITY MEETS TECHNOLOGY</sub>
+**LIGHT UP THE WEB**
 
 </td>
 </tr>
@@ -81,35 +77,31 @@ Through **LITWEBO**, I aim to transform ideas, visions and imagination into mode
 
 ---
 
-<!-- ================= DIGITAL PRESENCE ================== -->
+<!-- ================= DIGITAL PRESENCE ================= -->
 
 ## 🌍 My Digital Presence
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vinayaka-kallaholad-202522449/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.instagram.com/vinayak_113/">
-<img src="https://img.shields.io/badge/OWNER_INSTAGRAM-@VINAYAK__113-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Owner Instagram"/>
-</a>
-
-<a href="https://www.instagram.com/litweb0/">
-<img src="https://img.shields.io/badge/LITWEBO_INSTAGRAM-@LITWEB0-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="LITWEBO Brand Instagram"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Litwebo">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/litweb0/">
+<img src="https://img.shields.io/badge/LITWEBO_INSTAGRAM-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<!-- =================== SERVICES ========================= -->
+<!-- ================= WHAT WE DO ======================= -->
 
-## ⚡ What I Work With
+## ⚡ What We Do
 
 <div align="center">
 
@@ -122,17 +114,7 @@ Through **LITWEBO**, I aim to transform ideas, visions and imagination into mode
 
 **WEB DEVELOPMENT**
 
-Modern, responsive and interactive websites.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**UI/UX DESIGN**
-
-Beautiful and intuitive user interfaces.
+Responsive websites and modern web experiences.
 
 </td>
 
@@ -148,11 +130,21 @@ Creative applications and digital products.
 
 <td align="center" width="25%">
 
+### 🎨
+
+**UI/UX DESIGN**
+
+Beautiful and intuitive user interfaces.
+
+</td>
+
+<td align="center" width="25%">
+
 ### 💡
 
 **DIGITAL SOLUTIONS**
 
-Transforming ideas into reality.
+Turning ideas into meaningful experiences.
 
 </td>
 
@@ -163,7 +155,7 @@ Transforming ideas into reality.
 
 ---
 
-<!-- =================== TECH ARSENAL ===================== -->
+<!-- ================= TECH ARSENAL ===================== -->
 
 ## 🛠️ Tech Arsenal
 
@@ -176,7 +168,7 @@ Transforming ideas into reality.
 <table>
 <tr>
 
-<!-- LEFT: TECHNOLOGY STACK -->
+<!-- LEFT COLUMN -->
 
 <td width="60%" valign="top">
 
@@ -208,21 +200,111 @@ Transforming ideas into reality.
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode,postman&theme=dark"/>
 
+<br/><br/>
+
+---
+
+### ✦ INSIDE EVERY EXPERIENCE
+
+*It's the little details that make a big difference.*
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 VISUAL IDENTITY
+
+- Consistent colours
+- Modern typography
+- Clean layouts
+- Balanced spacing
+
 </td>
 
-<!-- RIGHT: LITWEBO CREATIVE STUDIO -->
+<td width="50%" valign="top">
 
-<td width="40%" align="center" valign="middle">
+### 📱 RESPONSIVE DESIGN
 
-<img width="100%" src="./assets/creative-workspace.png" alt="LITWEBO Creative Workspace"/>
+- Mobile-friendly layouts
+- Tablet compatibility
+- Desktop optimization
+- Flexible components
 
-### ⚡ THE LITWEBO STUDIO
+</td>
+</tr>
 
-**LIGHT UP THE WEB**
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ INTERACTIONS
+
+- Smooth transitions
+- Intuitive navigation
+- Interactive elements
+- Meaningful feedback
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 DEVELOPMENT
+
+- Organized code
+- Reusable components
+- Functional features
+- Performance awareness
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ✨ BEYOND THE CODE
+
+Every pixel, interaction and feature has a purpose.
+
+**We don't just build interfaces. We create experiences.**
+
+<br/>
+
+<img src="https://img.shields.io/badge/CRAFTED_WITH-CREATIVITY-8B5CF6?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/POWERED_BY-TECHNOLOGY-00D9FF?style=for-the-badge"/>
+
+</td>
+
+<!-- RIGHT COLUMN -->
+
+<td width="40%" valign="top" align="center">
+
+<img
+src="./creative-workspace.png"
+width="100%"
+alt="LITWEBO Creative Workspace"
+/>
+
+<br/>
+
+# ⚡ LITWEBO STUDIO
+
+### LIGHT UP THE WEB
 
 *Where creativity meets technology.*
 
 <br/>
+
+### 🎯 OUR VISION
+
+Transforming imagination into meaningful digital experiences.
+
+<br/>
+
+### 💎 WHAT WE CREATE
 
 <img src="https://img.shields.io/badge/WEB_DEVELOPMENT-00D9FF?style=for-the-badge"/>
 
@@ -240,41 +322,42 @@ Transforming ideas into reality.
 
 <br/><br/>
 
-### 💡 OUR PHILOSOPHY
+### ⚡ OUR CREATIVE PROCESS
 
-*Imagine beyond limits. Build beyond expectations.*
+**01 — IDEATE**
+
+↓
+
+**02 — DESIGN**
+
+↓
+
+**03 — DEVELOP**
+
+↓
+
+**04 — DELIVER**
 
 <br/>
 
-### ⚡ OUR CREATIVE PROCESS
+### ✨ OUR PHILOSOPHY
 
-**IDEATE**
+*Ideas are limitless. Creativity makes them possible.*
 
-↓
-
-**DESIGN**
-
-↓
-
-**DEVELOP**
-
-↓
-
-**DELIVER**
-
-<br/><br/>
+<br/>
 
 <a href="https://www.instagram.com/litweb0/">
 <img src="https://img.shields.io/badge/FOLLOW_@LITWEB0-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<!-- =================== PROJECTS ========================= -->
+<!-- ================= PROJECTS ========================= -->
 
 ## 🚀 Featured Projects
 
@@ -292,7 +375,7 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 <br/>
 
 <a href="https://lifetracko.ai.studio">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE_LIFETRACKO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 </td>
@@ -303,7 +386,7 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 
 ### 🚀 More Coming Soon
 
-<img src="https://img.shields.io/badge/CREATING-THE_NEXT_IDEA-8B5CF6?style=flat-square"/>
+*More ideas. More creations. More possibilities.*
 
 </td>
 
@@ -312,28 +395,7 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 
 ---
 
-<!-- ================= GITHUB DASHBOARD ================== -->
-
-
-
-## 📊 GitHub Dashboard
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Litwebo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litwebo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Litwebo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-
----
-
-<!-- ================= CURRENTLY EXPLORING ================ -->
+<!-- ================= CURRENTLY EXPLORING ============== -->
 
 ## 🎯 Currently Exploring
 
@@ -381,13 +443,63 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 
 ---
 
-<!-- ================= PHILOSOPHY ======================== -->
+<!-- ================= CREATIVE WORKSPACE =============== -->
+
+## 🖥️ Inside the LITWEBO Workspace
+
+<div align="center">
+
+<img src="./creative-workspace.png" width="100%" alt="LITWEBO Developer Workspace"/>
+
+<br/><br/>
+
+*Design. Develop. Innovate.*
+
+</div>
+
+---
+
+<!-- ================= GITHUB DASHBOARD ================= -->
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+### ⚡ MY DEVELOPER PROFILE
+
+<a href="https://github.com/Litwebo">
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Litwebo?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Litwebo?tab=stars">
+<img src="https://img.shields.io/badge/EXPLORE_STARRED_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 🚀 FOLLOW MY CODING JOURNEY
+
+*Every project is another step forward.*
+
+<a href="https://github.com/Litwebo">
+<img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<!-- ================= PHILOSOPHY ======================= -->
 
 ## ✨ LITWEBO Philosophy
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050816,50:14213D,100:312E81&text=Ideas%20Are%20Limitless&fontColor=00D9FF&fontSize=35&animation=twinkling&desc=Creativity%20Makes%20Them%20Possible&descColor=FFFFFF&descSize=17&descAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090014,45:25104A,100:123C68&text=Ideas%20Are%20Limitless&fontColor=00D9FF&fontSize=36&animation=twinkling&desc=Creativity%20Makes%20Them%20Possible&descColor=FFFFFF&descSize=17&descAlignY=75"/>
 
 <br/><br/>
 
@@ -395,28 +507,28 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 
 <br/><br/>
 
-*Every great digital experience begins with an idea.*
+*"Every great digital experience begins with an idea."*
 
 </div>
 
 ---
 
-<!-- ================= CONTACT =========================== -->
+<!-- ================= OWNER & CONTACT ================== -->
+
+## 🤝 Connect With LITWEBO
 
 <div align="center">
-
-## ⚡ CONNECT WITH LITWEBO
 
 ### OWNED BY: VINAYAKA KALLAHOLAD
 
 <a href="https://www.instagram.com/vinayak_113/">
-<img src="https://img.shields.io/badge/@VINAYAK__113-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Owner Instagram"/>
+<img src="https://img.shields.io/badge/@VINAYAK__113-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Vinayaka Instagram"/>
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/vinayaka-kallaholad-202522449/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vinayaka LinkedIn"/>
 </a>
 
 <br/><br/><br/>
@@ -424,7 +536,7 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 ### LITWEBO — BRAND INSTAGRAM
 
 <a href="https://www.instagram.com/litweb0/">
-<img src="https://img.shields.io/badge/@LITWEB0-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="LITWEBO Brand Instagram"/>
+<img src="https://img.shields.io/badge/FOLLOW_@LITWEB0-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="LITWEBO Instagram"/>
 </a>
 
 <br/><br/>
@@ -435,10 +547,10 @@ Built around the idea of simplifying everyday tracking and creating a more organ
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D9FF,50:14213D,100:050816&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D9FF,50:14213D,100:090014&section=footer&animation=fadeIn"/>
 
 </div>
 
-<!-- ====================================================== -->
-<!--                    END OF LITWEBO                      -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                    END OF LITWEBO                     -->
+<!-- ===================================================== -->
